@@ -18,6 +18,8 @@ class FoodController extends Controller
         //
     }
 
+    //yawa
+
     /**
      * Show the form for creating a new resource.
      */
